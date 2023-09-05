@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 13:33:33 BRT 2018
+http\://10.123.36.114\:8381/nexus/content/groups/public/.error=Could not transfer artifact com.google.code.gson\:gson-parent\:pom\:2.8.2 from/to NEXUS_INTERNO (http\://10.123.36.114\:8381/nexus/content/groups/public)\: C\:\\Automacao\\apache-maven-3.5.3\\Repositorio\\com\\google\\code\\gson\\gson-parent\\2.8.2\\aether-fd8512ca-aca6-4eca-aaf4-55de8b38abae-gson-parent-2.8.2.pom-in-progress (O sistema n\u00E3o pode encontrar o arquivo especificado)
+@default-NEXUS_INTERNO-http\://10.123.36.114\:8381/nexus/content/groups/public/.lastUpdated=1524760413342

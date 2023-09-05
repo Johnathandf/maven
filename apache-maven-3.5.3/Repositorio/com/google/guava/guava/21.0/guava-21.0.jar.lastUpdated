@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 15 13:05:59 BRT 2018
+http\://10.123.36.114\:8381/nexus/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava\:jar\:21.0 from/to NEXUS_INTERNO (http\://10.123.36.114\:8381/nexus/content/groups/public)\: C\:\\Automacao\\apache-maven-3.5.3\\Repositorio\\com\\google\\guava\\guava\\21.0\\aether-3dcbb7cd-24ee-4487-80a8-f47cfd1361ff-guava-21.0.jar-in-progress (O sistema n\u00E3o pode encontrar o arquivo especificado.)
+@default-NEXUS_INTERNO-http\://10.123.36.114\:8381/nexus/content/groups/public/.lastUpdated=1534349159936

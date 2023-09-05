@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 13:33:33 BRT 2018
+http\://10.123.36.114\:8381/nexus/content/groups/public/.error=Could not transfer artifact commons-codec\:commons-codec\:pom\:1.10 from/to NEXUS_INTERNO (http\://10.123.36.114\:8381/nexus/content/groups/public)\: C\:\\Automacao\\apache-maven-3.5.3\\Repositorio\\commons-codec\\commons-codec\\1.10\\aether-95ff6451-44cc-4771-8675-788acfa6a2af-commons-codec-1.10.pom-in-progress (O sistema n\u00E3o pode encontrar o arquivo especificado)
+@default-NEXUS_INTERNO-http\://10.123.36.114\:8381/nexus/content/groups/public/.lastUpdated=1524760413179

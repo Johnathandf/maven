@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 26 13:33:33 BRT 2018
+http\://10.123.36.114\:8381/nexus/content/groups/public/.error=Could not transfer artifact com.google.guava\:guava-parent\:pom\:23.6-jre from/to NEXUS_INTERNO (http\://10.123.36.114\:8381/nexus/content/groups/public)\: C\:\\Automacao\\apache-maven-3.5.3\\Repositorio\\com\\google\\guava\\guava-parent\\23.6-jre\\aether-9b42e313-aa5e-4da9-8720-4d6a2ad6ff15-guava-parent-23.6-jre.pom-in-progress (O sistema n\u00E3o pode encontrar o arquivo especificado)
+@default-NEXUS_INTERNO-http\://10.123.36.114\:8381/nexus/content/groups/public/.lastUpdated=1524760413430
